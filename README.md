@@ -2,7 +2,7 @@
 description: 人生遇到瓶颈时，上进心是最大的煎熬。
 ---
 
-# 前言
+# _前言
 
 ## It's not what we do once in a while that shapes our lives. It's what we do consistently. 
 
