@@ -76,4 +76,5 @@
 ## Others
 
 * [还有这东西](others/hai-you-zhe-dong-xi.md)
+* [站点收藏](others/zhan-dian-shou-cang.md)
 
