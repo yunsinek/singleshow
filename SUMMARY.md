@@ -73,3 +73,7 @@
 
 * [Python基础](python/python-ji-chu.md)
 
+## Others
+
+* [还有这东西](others/hai-you-zhe-dong-xi.md)
+
