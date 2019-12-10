@@ -15,6 +15,12 @@
 ## 后端开发
 
 * [常用命令](hou-duan-kai-fa/chang-yong-ming-ling.md)
+* [Egg.js企业级Node框架](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/README.md)
+  * [Egg.js安装](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/egg.js-an-zhuang.md)
+  * [目录结构](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/mu-lu-jie-gou.md)
+  * [插件的基本使用](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/cha-jian-de-ji-ben-shi-yong.md)
+  * [基本开发须知](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/ji-ben-kai-fa-xu-zhi.md)
+  * [MongoDB数据库](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/mongodb-shu-ju-ku.md)
 * [brew Nginx](hou-duan-kai-fa/brew-nginx.md)
 * [Node.js开发杂记](hou-duan-kai-fa/node.js-kai-fa-za-ji.md)
 * [MongoDB - mongoose库](hou-duan-kai-fa/mongodb-mongoose-ku.md)
@@ -38,14 +44,14 @@
 * [APICloud](yi-dong-duan-kai-fa/apicloud/README.md)
   * [APP崩溃日志查看](yi-dong-duan-kai-fa/apicloud/untitled.md)
   * [AVUE极速开发](yi-dong-duan-kai-fa/apicloud/avue-ji-su-kai-fa.md)
-* [Flutter](flutter/README.md)
-  * [作死秀](flutter/zuo-si-xiu.md)
-  * [常用插件](flutter/chang-yong-cha-jian.md)
-  * [Dio AJAX](flutter/dio-ajax.md)
-  * [Flutter表单](flutter/flutter-biao-dan.md)
-  * [组件概览](flutter/zu-jian-gai-lan.md)
-  * [底部导航](flutter/di-bu-dao-hang.md)
-  * [ListView Builder](flutter/listview-builder.md)
+* [Flutter](yi-dong-duan-kai-fa/flutter/README.md)
+  * [作死秀](yi-dong-duan-kai-fa/flutter/zuo-si-xiu.md)
+  * [常用插件](yi-dong-duan-kai-fa/flutter/chang-yong-cha-jian.md)
+  * [Dio AJAX](yi-dong-duan-kai-fa/flutter/dio-ajax.md)
+  * [Flutter表单](yi-dong-duan-kai-fa/flutter/flutter-biao-dan.md)
+  * [组件概览](yi-dong-duan-kai-fa/flutter/zu-jian-gai-lan.md)
+  * [底部导航](yi-dong-duan-kai-fa/flutter/di-bu-dao-hang.md)
+  * [ListView Builder](yi-dong-duan-kai-fa/flutter/listview-builder.md)
 
 ## 桌面端开发
 
