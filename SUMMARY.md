@@ -11,6 +11,7 @@
 * [class的基本使用](qian-duan-kai-fa/untitled-1.md)
 * [Promise基本写法](qian-duan-kai-fa/promise-ji-ben-xie-fa.md)
 * [snabbdom DEMO](qian-duan-kai-fa/snabbdom-demo.md)
+* [手册\库\文档](qian-duan-kai-fa/shou-ce-ku-wen-dang.md)
 
 ## 后端开发
 
