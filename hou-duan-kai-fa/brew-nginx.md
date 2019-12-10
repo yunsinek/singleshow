@@ -1,4 +1,4 @@
-# brew Nginx
+# brew & Nginx
 
 ### Nginx
 

@@ -4,6 +4,8 @@ description: 人生遇到瓶颈时，上进心是最大的煎熬。
 
 # 前言
 
+> 这里很多内容都是后来从笔记上选择性的挪过来的，毕竟是爱折腾，很多时候重装系统丢了很多笔记，要么就是太忙，服务器忘了续费给销毁了...
+
 ## It's not what we do once in a while that shapes our lives. It's what we do consistently.
 
 我们过着的生活，是由那些持之以恒的事情造就的；而不是一时兴起、偶尔为之的新鲜刺激的事。
