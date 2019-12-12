@@ -5,6 +5,7 @@
 ## 前端开发
 
 * [代码片段](qian-duan-kai-fa/untitled.md)
+* [Vue滚动轮播插件](qian-duan-kai-fa/vue-gun-dong-cha-jian.md)
 * [Vue Cli 3.0](qian-duan-kai-fa/vue-cli-3.0.md)
 * [浅聊设计模式](qian-duan-kai-fa/qian-liao-she-ji-mo-shi.md)
 * [Array常用方法](qian-duan-kai-fa/array-chang-yong-fang-fa.md)
