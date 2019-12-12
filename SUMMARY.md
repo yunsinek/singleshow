@@ -52,6 +52,7 @@
   * [APP崩溃日志查看](yi-dong-duan-kai-fa/apicloud/untitled.md)
   * [AVUE极速开发](yi-dong-duan-kai-fa/apicloud/avue-ji-su-kai-fa.md)
 * [Flutter](yi-dong-duan-kai-fa/flutter/README.md)
+  * [从零开发一款记账应用](yi-dong-duan-kai-fa/flutter/cong-ling-kai-fa-yi-kuan-ji-zhang-ying-yong.md)
   * [作死秀](yi-dong-duan-kai-fa/flutter/zuo-si-xiu.md)
   * [常用插件](yi-dong-duan-kai-fa/flutter/chang-yong-cha-jian.md)
   * [Dio AJAX](yi-dong-duan-kai-fa/flutter/dio-ajax.md)
