@@ -64,6 +64,7 @@
 ## 桌面端开发
 
 * [Electron上手篇](zhuo-mian-duan-kai-fa/untitled.md)
+* [Flutter桌面端体验篇](zhuo-mian-duan-kai-fa/flutter-zhuo-mian-duan-ti-yan-pian.md)
 
 ## 单片机开发
 
