@@ -12,6 +12,7 @@
 * [snabbdom DEMO](qian-duan-kai-fa/snabbdom-demo.md)
 * [手册\库\文档](qian-duan-kai-fa/shou-ce-ku-wen-dang.md)
 * [杂记](qian-duan-kai-fa/za-ji/README.md)
+  * [Vue-cli 3.+创建项目异常](qian-duan-kai-fa/za-ji/vuecli-3.+-chuang-jian-xiang-mu-yi-chang.md)
   * [Vue Cli 3.0](qian-duan-kai-fa/za-ji/vue-cli-3.0.md)
   * [Vue滚动轮播插件](qian-duan-kai-fa/za-ji/vue-gun-dong-cha-jian.md)
   * [Git命令](qian-duan-kai-fa/za-ji/git-ming-ling.md)
