@@ -82,6 +82,7 @@
 ## Python
 
 * [Python基础](python/python-ji-chu.md)
+* [格式化输出](python/ge-shi-hua-shu-chu.md)
 
 ## Dart
 
